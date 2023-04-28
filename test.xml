@@ -16,7 +16,7 @@
     </person>
     <person id="robert.taylor" photo="personal-images/robert.taylor.jpg">
         <name>
-            <given>Robert 2</given>
+            <given>Robert</given>
             <family>Taylor</family>
         </name>
         <email>robert.taylor@example.com</email>
